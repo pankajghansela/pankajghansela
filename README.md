@@ -4,7 +4,7 @@
 <img align="right" alt="gif" width="500" src="https://user-images.githubusercontent.com/118019483/215361324-93ca3ecc-9f11-4428-a7bf-c65329eced95.png">
 
 
-- 🌱 I’m currently learning **AWS cloud**
+- 🌱 I’m currently learning **AWS cloud, complete end-to-end deployments for 3-tier applications and continuous infrastructure monitoring **
 
 - 📫 How to reach me **pankajghansela@gmail.com**
 
