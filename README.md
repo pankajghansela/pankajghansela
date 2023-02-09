@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Ghansela</h1>
-<h3 align="center">A motivated, self-starter engineer and DevOps enthusiast with a solid foundation and strong hands-on knowledge of various CI/CD tools & technologies</h3>
+<h3 align="center">A self-taught DevOps Engineer, AWS certified with strong hands-on knowledge of various CI/CD tools & technologies</h3>
 
 <img align="right" alt="gif" width="500" src="https://user-images.githubusercontent.com/118019483/215361324-93ca3ecc-9f11-4428-a7bf-c65329eced95.png">
 
